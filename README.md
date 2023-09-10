@@ -4,7 +4,7 @@
 
 - [Project 1](https://github.com/Jeevith-gowda/personal_portfolio.github.io): Description of Project 1.
 - [Project 2](https://github.com/Jeevith-gowda/todolist.github.io): Description of Project 2.
-- [Project 3](https://github.com/Jeevith-gowda/weatherreport.github.io/tree/main): Description of Project 3.
+- [Project 3](https://github.com/Jeevith-gowda/weatherreport.github.io): Description of Project 3.
 
 ## Contact Information
 
