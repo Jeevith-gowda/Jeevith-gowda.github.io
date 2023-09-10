@@ -8,5 +8,5 @@
 
 ## Contact Information
 
-- Email: jeevithdr@email.com
+- Email: jeevithdr@gmail.com
 - LinkedIn: [Jeevith D R](www.linkedin.com/in/jeevith-d-r-93a86a209)
